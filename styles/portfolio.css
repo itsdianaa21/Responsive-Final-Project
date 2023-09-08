@@ -62,8 +62,8 @@ a:hover {
   background-color: #fef7fc;
   margin: auto;
   padding: 50px;
-  width: 800px;
-  height: 515px;
+  width: 400px;
+  height: 350px;
 }
 
 .profile-picture {
@@ -98,7 +98,7 @@ a:hover {
 }
 
 .content h1 {
-  font-size: 64px;
+  font-size: 50px;
   line-height: 80px;
 }
 
@@ -175,7 +175,7 @@ nav a {
   text-decoration: none;
   color: #272142;
   transition: all 100ms ease-in-out;
-  font-size: 28px;
+  font-size: 20px;
 }
 
 nav a:hover,
